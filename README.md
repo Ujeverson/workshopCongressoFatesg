@@ -52,8 +52,16 @@ Resultado Esperado:
 ## 2. Implementação das Funções
 
 ## 3. Construção do Menu de Interface no Terminal (10 min)
-### 📌 IDE: Cursor + LLM
+### 📌 IDE: Cursor/Windsurf + LLM
 
 ### Prompt:
 
-            "Crie um menu interativo em Python para uma calculadora no terminal com opções para cada operação matemática e uma opção para sair."
+    "Crie um menu interativo em Python para uma calculadora no terminal com opções para cada operação matemática e uma opção para sair."
+
+## 4. Documentação com IA
+
+### 📌 Ferramenta: LLM
+
+### Prompt:
+
+    "Escreva um README.md para uma calculadora de terminal em Python com instruções de uso e exemplos."
