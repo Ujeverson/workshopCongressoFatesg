@@ -7,6 +7,12 @@
     
     Resposta:
 
+## 1.2 Zero-shot
+
+    Pessoa 1: Às vezes, parece que a vida é um grande quebra-cabeça, não é?
+    Pessoa 2: É verdade. E o curioso é que, mesmo que faltem peças, a gente tenta montar algo que faça sentido.
+    Pessoa 1: 
+
 
 
 ## 📘 Descrição Geral do Projeto: "Calculadora Simples com IA Generativa"
