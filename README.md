@@ -13,6 +13,18 @@
     Pessoa 2: É verdade. E o curioso é que, mesmo que faltem peças, a gente tenta montar algo que faça sentido.
     Pessoa 1: 
 
+## Few-Shot
+
+    Palavra: Baú
+    Letras: 3 letras
+    Letras: B-A-Ú
+
+    Palavra: Chinelo
+    Letras: 7 letras
+    Letras: C-H-I-N-E-L-O
+
+    Palavra: Paralelepípedo
+
 
 
 ## 📘 Descrição Geral do Projeto: "Calculadora Simples com IA Generativa"
