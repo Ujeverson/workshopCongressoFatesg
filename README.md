@@ -1,3 +1,14 @@
+# Prompts de sala de aula
+## 1. Zero-shot
+
+    Classifique o texto, a seguir, em passado, presente ou futuro.
+    
+    Texto: Ele foi ao médico.
+    
+    Resposta:
+
+
+
 ## 📘 Descrição Geral do Projeto: "Calculadora Simples com IA Generativa"
 
 Objetivo:
