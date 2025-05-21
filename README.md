@@ -65,3 +65,11 @@ Resultado Esperado:
 ### Prompt:
 
     "Escreva um README.md para uma calculadora de terminal em Python com instruções de uso e exemplos."
+
+### Conteúdo esperado:
+
+* Como executar
+
+* Exemplo de uso
+
+* Créditos ou nome do aluno
